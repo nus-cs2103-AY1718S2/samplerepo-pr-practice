@@ -3,3 +3,6 @@ A sample repo for practicing how to create Pull Requests
 
 # [Introduction] 
 This is the introduction section.
+
+# [FIX]
+This section is for fix.
