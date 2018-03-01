@@ -6,3 +6,9 @@ This is the introduction section.
 
 # [Food]
 Chicken
+
+# [Conclusion]
+This is the conclusion section.
+
+# [FIX]
+This section is for fix.
