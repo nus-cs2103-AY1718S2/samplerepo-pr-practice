@@ -6,3 +6,6 @@ This is the introduction section.
 
 # [Conclusion]
 This is the conclusion section.
+
+# [FIX]
+This section is for fix.
